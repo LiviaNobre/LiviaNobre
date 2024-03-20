@@ -2,10 +2,10 @@
 
 👋😊 Olá! Sou a Lívia Nobre.<br>
 Estou em transição de carreira e meu foco é trabalhar com dados.<br>
-Este GitHub serve como meu portfolio, onde compartilho projetos, estudos<br>
-e aprendizados relacionados à tecnologia. Estou em busca de oportunidades<br>
-no mercado de trabalho e também utilizo este espaço para aprimorar meus<br>
-conhecimentos na área de dados.<br>
+Este GitHub serve como meu portfolio, onde compartilho projetos, <br>
+estudos e aprendizados relacionados à tecnologia. Estou em busca <br>
+de oportunidades no mercado de trabalho e também utilizo este espaço <br>
+para aprimorar meus conhecimentos na área de dados.<br>
 Vamos conectar e colaborar juntos!
 
 <p align="left">
